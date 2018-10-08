@@ -1,0 +1,44 @@
+!<thin>
+//                                              386       `
+pci-aardvark.o/
+pci-tegra.o/
+pcie-rcar.o/
+pci-host-common.o/
+pci-host-generic.o/
+pci-xgene-msi.o/
+pcie-iproc.o/
+pcie-iproc-msi.o/
+pcie-iproc-platform.o/
+pcie-rockchip.o/
+dwc/pcie-designware.o/
+dwc/pcie-designware-host.o/
+dwc/pci-layerscape.o/
+dwc/pcie-qcom.o/
+dwc/pcie-armada8k.o/
+dwc/pcie-kirin.o/
+dwc/pcie-histb.o/
+dwc/pcie-hisi.o/
+pci-thunder-ecam.o/
+pci-thunder-pem.o/
+pci-xgene.o/
+/0              0           0     0     644     329336    `
+/16             0           0     0     644     524392    `
+/29             0           0     0     644     332752    `
+/42             0           0     0     644     177488    `
+/61             0           0     0     644     175296    `
+/81            /0           0     0     644     250592    `
+/98             0           0     0     644     313984    `
+/112            0           0     0     644     250920    `
+/130            0           0     0     644     212168    `
+/153           /0           0     0     644     224672    `
+/170            0           0     0     644     210480    `
+/193            0           0     0     644     267608    `
+/221            0           0     0     644     218568    `
+/243            0           0     0     644     343856    `
+/260           /0           0     0     644     210296    `
+/281            0           0     0     644     251048    `
+/299            0           0     0     644     262288    `
+/317            0           0     0     644     254760    `
+/334            0           0     0     644     227120    `
+/354            0           0     0     644     236432    `
+/373            0           0     0     644     314776    `
