@@ -1,0 +1,2 @@
+kernel/drivers/pci/controller/pcie-iproc.ko
+kernel/drivers/pci/controller/pcie-iproc-platform.ko

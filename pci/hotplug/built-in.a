@@ -1,0 +1,10 @@
+!<thin>
+//                                              66        `
+pci_hotplug_core.o/
+acpi_pcihp.o/
+acpiphp_core.o/
+acpiphp_glue.o/
+/0              0           0     0     644     254696    `
+/20             0           0     0     644     217376    `
+/34             0           0     0     644     212640    `
+/50             0           0     0     644     320320    `
