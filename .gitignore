@@ -1,1 +1,4 @@
+#ignore obeject files
 *.o
+#ignore obeject folder
+i2c/
